@@ -3,6 +3,8 @@
 ![yo!](https://github.com/Raunaksplanet/Love_of_Code_Series/assets/111748076/4d0bd120-16f9-435a-b75c-3cc70a96ff6b)
 
 # Day - 1 Questions
+[• First LiveStream.](https://www.youtube.com/watch?v=jvKydgeSVFk)
+
 [1. Write a program to input a number from user and find that mid digit of that number is Even or not.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%201/question1.cpp)
 
 [2. Perform Array rotation.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%201/question2.cpp)
@@ -14,6 +16,8 @@
 [5. Write a program to input a string from user and print all the character at odd indexes.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%201/question5.cpp)
 
 # Day - 2 Questions
+[• Second LiveStream.](https://www.youtube.com/watch?v=TQx35ZQbTYg)
+
 [1. Perform Function Overloading.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%202/question1.cpp)
 
 [2. Print this pattern, In single loop.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%202/question2.cpp)
