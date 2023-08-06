@@ -27,3 +27,16 @@
 [4. Write a program to print number from 1 to n without using loops.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%202/question4.cpp)
 
 [5. What should be the condition when following code snippet print both hello world.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%202/question5.cpp)
+
+# Day - 3 Questions
+[• Third LiveStream.](https://www.youtube.com/watch?v=6ZTQoVKbwH4)
+
+[1. Write a program to find lenth of number entered by user using for loop.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%203/Q1.cpp)
+
+[2. Write a program to find lenth of string entered by user without using string function and using for loop.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%203/Q2.cpp)
+
+[3. Write a program to input money amount from user and break down it in Indian currency system, for Eg:- if amount = 2375, breakdown = 2000  100  100  100  50  20  5.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%203/Q3.cpp)
+
+[4. Print this pattern](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%203/Q4.cpp)
+
+[5. if n = 45954 then print the mid value(Eg = 9) and find if mid value is even or not.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%203/Q5.cpp)
