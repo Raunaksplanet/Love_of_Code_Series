@@ -40,3 +40,16 @@
 [4. Print this pattern](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%203/Q4.cpp)
 
 [5. if n = 45954 then print the mid value(Eg = 9) and find if mid value is even or not.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%203/Q5.cpp)
+
+# Day - 4 Questions
+[• Fourth LiveStream.](https://www.youtube.com/watch?v=P3fCpIVBqdo)
+
+[Q1. Reverse a string and not a character array](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%204/Q1.cpp)
+
+[Q2. replace duplicate character from string with 0.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%204/Q2.cpp)
+
+[Q3. find maximum value between 3 elements in single line.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%204/Q3.cpp)
+
+[Q4. Swapping in single line.](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%204/Q4.cpp)
+
+[Q5. Check Question on file](https://github.com/Raunaksplanet/Love_of_Code_Series/blob/main/DAY%20-%204/Q5.cpp)
